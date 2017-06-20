@@ -1,0 +1,20 @@
+Windows (64bit):
+-Install Python
+https://www.python.org/ftp/python/3.6.1/python-3.6.1-amd64.exe
+
+-Install Packages
+py -m pip install matplotlib
+
+-Run Programs
+py hello_world.py
+
+--------------------------------------------------------------------------------
+Linux:
+-Install Python
+https://tecadmin.net/install-python-3-6-ubuntu-linuxmint/#
+
+-Install Packages
+sudo pip3 install matplotlib
+
+-Run Programs
+python3.6 hello_world.py
